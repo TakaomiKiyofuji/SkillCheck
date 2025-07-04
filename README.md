@@ -59,20 +59,19 @@
 ---
 
 # ディレクトリ階層
-
 ```
-├─ 📁 Normalize
-│  ├─ NormalizeTSV.java         // 第一正規化のソースコード
-│  ├─ input.tsv                 // 正規化前サンプルデータ
-│  ├─ run_Normalize.bat         // 実行用バッチファイル
-│  └─ README.txt                // Normalize の説明書き
-│
-├─ 📁 Denormalize
-│  ├─ DenormalizeTSV.java       // 逆正規化のソースコード
-│  ├─ input.tsv                 // 逆正規化前サンプルデータ
-│  ├─ run_Denormalize.bat       // 実行用バッチファイル
-│  └─ README.txt                // Denormalize の説明書き
-│
-└─ README.txt                   // 全体用の総合 README
+
+  📁 Normalize
+  ├─ NormalizeTSV.java         // 第一正規化のソースコード
+  ├─ input.tsv                 // 正規化前サンプルデータ
+  ├─ run_Normalize.bat         // 実行用バッチファイル
+  └─ README.txt                // Normalize の説明書き
+
+  📁 Denormalize
+  ├─ DenormalizeTSV.java       // 逆正規化のソースコード
+  ├─ input.tsv                 // 逆正規化前サンプルデータ
+  ├─ run_Denormalize.bat       // 実行用バッチファイル
+  └─ README.txt                // Denormalize の説明書き
+
 ```
 
