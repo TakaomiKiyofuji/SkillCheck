@@ -73,7 +73,8 @@
   ├─ run_Denormalize.bat       // 実行用バッチファイル
   └─ README.txt                // Denormalize の説明書き
 
-```
+　📄 README.md                 // プロジェクト全体の説明（このファイル）
+　📄 .gitignore                // Git管理対象外ファイルの定義
 
-※ `.gitignore` は開発用の補助ファイルとして含まれています。本課題の動作には影響しません。
+```
 
