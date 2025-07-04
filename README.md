@@ -61,7 +61,6 @@
 # ディレクトリ階層
 
 ```
-📁 スキルチェック課題_清藤貴臣.zip
 ├─ 📁 Normalize
 │  ├─ NormalizeTSV.java         // 第一正規化のソースコード
 │  ├─ input.tsv                 // 正規化前サンプルデータ
